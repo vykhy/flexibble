@@ -9,5 +9,3 @@ function Home() {
 }
 
 export default Home;
-
-// 1:46:58
